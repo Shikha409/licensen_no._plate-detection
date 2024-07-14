@@ -21,7 +21,8 @@ Create OCR Reader: Initialize the EasyOCR reader to read text from images.
 Set Paths: Define the paths for your image folder and the CSV file where results will be saved.
 Process Images: The script processes each image, detects license plates, extracts text, and saves the results to a CSV file.
 ## Script result 
-![Cars389](https://github.com/user-attachments/assets/02beaf68-5122-4677-8570-f1ae4abf12bc
+
+![Cars100](https://github.com/user-attachments/assets/4ff0bbb3-a314-416c-8d50-203533976e06)
 
 ![Cars137](https://github.com/user-attachments/assets/3ee19fd9-4aab-4748-8019-97b059e1e435)
 
