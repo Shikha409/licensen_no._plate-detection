@@ -8,11 +8,12 @@ Text Extraction: Uses EasyOCR to read and extract text from the detected license
 CSV Export: Saves the detected license plate texts along with the image names into a CSV file.
 ## Installation
 To run this project, you'll need to install the required Python packages. Use the following commands to install them:
-
- bash
 Copy code
+
 !pip install --upgrade ultralytics
+
 !pip install ultralytics
+
 !pip install easyocr
 
 ## Usage
